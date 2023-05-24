@@ -1,8 +1,4 @@
-//GROUP 16 MEMBERS :
-//Pooja Bhoomigha .S - AP21110010387
-//Eswar Yeluri - AP21110010388
-//Ujjwal Rawat - AP21110010389
-//Siva Komal - AP21110010390
+
 
 #include<bits/stdc++.h>
 #include<conio.h>
@@ -602,7 +598,7 @@ void pcourse()
           {
         cout<<endl<<endl;
            cout<<"                                              *************** Computer Network Engineering *************** "<<endl<<endl;
-           cout<<"                        *The Computer Network Engineering Technology program emphasizes the design, installation, and support of an organization’s"<<endl<<"                         local area network (LAN), wide area network (WAN), network segment, internet, or intranet system. "<<endl;
+           cout<<"                        *The Computer Network Engineering Technology program emphasizes the design, installation, and support of an organizationÂ’s"<<endl<<"                         local area network (LAN), wide area network (WAN), network segment, internet, or intranet system. "<<endl;
            cout<<"                        *STUDY FEES :- 1.5 LAKHS "<<endl;
            cout<<"                        *POPULAR CAREERS :- COMPUTER ENGINEERING TECHNICIAN ,NETWORK ADMINISTRATOR , ETC. "<<endl;
           }
